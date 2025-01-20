@@ -7,7 +7,7 @@ This repository contains several projects built using **React.js**. Below is a b
 ### 1. **finalCountDown**
 
 - **Description:** A fun game where players must click a button before the timer runs out. The closer to the end of the countdown, the more points are awarded.
-  ![AppInterface](image1.PNG)
+  ![AppInterface](image3.PNG)
 - **Features:**
   - Dynamic countdown timer.
   - Scoring system based on precision.
@@ -57,7 +57,7 @@ This repository contains several projects built using **React.js**. Below is a b
 ### 3. **tic-tac-toe**
 
 - **Description:** A classic Tic-Tac-Toe game where players compete against each other in turns.
-  ![AppInterface](image3.PNG)
+  ![AppInterface](image1.PNG)
 - **Features:**
   - Interactive 3x3 grid.
   - Tracks player turns and detects wins/draws.
