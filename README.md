@@ -14,4 +14,4 @@ This repository contains several projects built using **React.js**. Below is a b
 
 #### 5. **Tic-Tac-Toe**
 
-#### 6. **Management tasks\***
+#### 6. **Management tasks**
